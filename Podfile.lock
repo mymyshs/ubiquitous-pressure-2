@@ -1,0 +1,15 @@
+PODS:
+  - ScrollableGraphView (3.1.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - ScrollableGraphView
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ScrollableGraphView: e2c8bedc7bbb643e8ac57b9456070d68355c4e4c
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 5ae2e06abe887dfae73a62166a30d2e9a438f347
+
+COCOAPODS: 1.3.0.beta.1
